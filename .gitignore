@@ -3,6 +3,6 @@
 ###
 # Ignore Chef key files and secrets
 ###
-.chef
+data_bags/users/*.json
 .chef/*.pem
 .chef/encrypted_data_bag_secret
