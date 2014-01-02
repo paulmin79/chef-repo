@@ -1,0 +1,8 @@
+{
+  "id": "pmin",
+  "ssh_keys": ["ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCuA6FHAOAri0mvFtIGZx1FpB/3B6FHykTgEziokJFkb3VhKQXSQEKJLSQof7Lcd7bDE42/9AEchpyoQyjZnj2mbG4BlJvdvjfBPJNs1p6Q6TvmTwOs2gyceT8pl83VPqS9j4REhaMfqcPuJvhNK+EvwRtL6cz84QvrpsxsohD9UNCYXn94ILKu41BbaICJc5Yi8HJQet8yVMPsvbA8RujAdlvocjlxUAdIjUJlu2wBeE67eHIwLHzHPB0mfz8A11QawImY5idddl8QR5VdC1jm4QGNqNXelsyXVq2CteqKwRttChWJ6IvUxGct99SgwV6ywYrKpDdnduGi1xtoq7N7 pmin@Paul-Mins-iMac.local"],
+  "groups": ["users"],
+  "uid": 2012,
+  "shell": "\/bin\/bash",
+  "comment": "Paul Min"
+}
